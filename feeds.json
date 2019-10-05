@@ -1,44 +1,29 @@
-{
-      "intents": [
-        {
-          "intent": "AnswerIntent",
-          "slots": [
-            {
-              "name": "Answer",
-              "type": "LIST_OF_ANSWERS"
-            }
-          ]
-        },
-
-            {
-          "intent": "AnswerOnlyIntent",
-          "slots": [
-            {
-              "name": "Answer",
-              "type": "LIST_OF_ANSWERS"
-            }
-          ]
-        },
-        {
-          "intent": "AMAZON.StartOverIntent"
-        },
-        {
-          "intent": "AMAZON.RepeatIntent"
-        },
-        {
-          "intent": "AMAZON.HelpIntent"
-        },
-        {
-          "intent": "AMAZON.YesIntent"
-        },
-        {
-          "intent": "AMAZON.NoIntent"
-        },
-        {
-          "intent": "AMAZON.StopIntent"
-        },
-        {
-          "intent": "AMAZON.CancelIntent"
-        }
-      ]
-    }
+[{
+    "uid": "1549313013000",
+    "updateDate": "2019-02-04T06:00:00.000Z",
+    "titleText": "title1",
+    "mainText": "",
+    "streamUrl": "https://foo.bar/ep4.mp3",
+    "redirectionUrl": "http://foo.bar/ep4"
+}, {
+    "uid": "1548710893000",
+    "updateDate": "2019-01-28T06:00:00.000Z",
+    "titleText": "Episode 3:",
+    "mainText": "",
+    "streamUrl": "https:/foo.bar/ep3.mp3",
+    "redirectionUrl": "http://foo.bar/ep3/"
+}, {
+    "uid": "1548097884000",
+    "updateDate": "2019-01-21T06:00:00.000Z",
+    "titleText": "Episode 2",
+    "mainText": "",
+    "streamUrl": "https://foo.bar/ep2.mp3",
+    "redirectionUrl": "http://foo-bar/ep2"
+}, {
+    "uid": "1547501548000",
+    "updateDate": "2019-01-14T06:00:00.000Z",
+    "titleText": "Episode 1",
+    "mainText": "",
+    "streamUrl": "https://foo.bar/ep1.mp3",
+    "redirectionUrl": "http://foo.bar/ep1"
+}]
