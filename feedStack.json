@@ -1,0 +1,29 @@
+[{
+    "uid": "1549313013000",
+    "updateDate": "2019-10-05T18:55:03+00:00",
+    "titleText": "title1",
+    "mainText": "",
+    "streamUrl": "https://foo.bar/ep4.mp3",
+    "redirectionUrl": "http://foo.bar/ep4"
+}, {
+    "uid": "1548710893000",
+    "updateDate": "2019-10-06T18:55:03+00:00",
+    "titleText": "Episode 3:",
+    "mainText": "",
+    "streamUrl": "https:/foo.bar/ep3.mp3",
+    "redirectionUrl": "http://foo.bar/ep3/"
+}, {
+    "uid": "1548097884000",
+    "updateDate": "2019-10-07T18:55:03+00:00",
+    "titleText": "Episode 2",
+    "mainText": "",
+    "streamUrl": "https://foo.bar/ep2.mp3",
+    "redirectionUrl": "http://foo-bar/ep2"
+}, {
+    "uid": "1547501548000",
+    "updateDate": "2019-10-08T18:55:03+00:00",
+    "titleText": "Episode 1",
+    "mainText": "",
+    "streamUrl": "https://foo.bar/ep1.mp3",
+    "redirectionUrl": "http://foo.bar/ep1"
+}]
